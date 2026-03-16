@@ -6,6 +6,7 @@ public class MultiLevelCacheSystem{
     static HashMap<String,String> L2=new HashMap<>();
 
     public static String getVideo(String id){
+        int num;
 
         if(L1.containsKey(id)){
             return "L1 HIT";
@@ -26,5 +27,6 @@ public class MultiLevelCacheSystem{
 
         System.out.println(getVideo("video1"));
         System.out.println(getVideo("video1"));
+        
     }
 }
