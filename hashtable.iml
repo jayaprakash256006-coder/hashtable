@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Problem10_MultiLevelCache" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem1_UsernameAvailability" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem2_FlashSaleInventory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem3_DNSCache" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem4_PlagiarismDetection" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem5_RealTimeAnalytics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem6_RateLimiter" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem7_Autocomplete" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem8_ParkingLot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Problem9_TwoSumTransactions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/main" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
